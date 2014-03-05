@@ -5,3 +5,8 @@ scala:
 jdk: 
     - openjdk6
     - openjdk7
+    
+notifications:
+    email:
+        - crvidya@shippable.com 
+        - vidya@shippable.com
