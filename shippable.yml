@@ -12,6 +12,6 @@ jdk:
   #  - testing  
 
 archive: true
-branches:
-  only:
-    - master
+#branches:
+ # only:
+  #  - master
