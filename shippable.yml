@@ -2,7 +2,7 @@ language: scala
 
 scala:
     - "2.10.2"
-    - "2.10.0"
+  #  - "2.10.0"
     
 jdk: 
     - openjdk6
@@ -12,3 +12,6 @@ jdk:
   #  - testing  
 
 archive: true
+branches:
+  only:
+    - master
