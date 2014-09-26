@@ -5,6 +5,7 @@ scala:
     
 jdk: 
     - openjdk6
+
 #include
 branches:
   only:
