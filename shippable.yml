@@ -10,3 +10,5 @@ jdk:
 #branches:
  # only:
   #  - testing  
+
+archive: true
