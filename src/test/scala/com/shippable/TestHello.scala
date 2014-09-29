@@ -12,6 +12,6 @@ class TestStuff extends JUnitSuite {
   }
 
   @ Test def twoIsTwo {
-    assertEquals(7, calc multiple (2,3))
+    assertEquals(6, calc multiple (2,3))
   }
 }
