@@ -8,5 +8,5 @@ jdk:
 
 #include
 branches:
-   except:
+   only:
     - testing
